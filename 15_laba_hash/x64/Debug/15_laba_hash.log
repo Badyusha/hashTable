@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Study\ОАИП\1курс\15_laba_hash\15_laba_hash\main.cpp(308,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Study\ОАИП\1курс\15_laba_hash\15_laba_hash\main.cpp(311,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  15_laba_hash.vcxproj -> D:\Study\ОАИП\1курс\15_laba_hash\x64\Debug\15_laba_hash.exe
